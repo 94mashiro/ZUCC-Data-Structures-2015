@@ -6,6 +6,13 @@
 //  Copyright (c) 2015年 Smoogle Wong. All rights reserved.
 //
 
+/*
+ 编写程序3：输入若干个正整数（输入-1为结束标志），要求建立一个单向链表，并将其中的偶数值结点删除后输出。
+ 输入输出示例：
+ 1 2 3 4 5 6 7 -1
+ 1 3 5 7
+*/
+
 #include <iostream>
 using namespace std;
 
